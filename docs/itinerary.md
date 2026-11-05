@@ -1,6 +1,6 @@
 # Beijing Historic Central Axis — Guided Walking Tour
 
-This route guide was assembled entirely from live lookups (Google Maps Place details, Elevation API, and Walking Distance Matrix) — no figures are taken from memory or general knowledge.
+This route guide was assembled entirely from live lookups (Google Maps Place details, Elevation API, and a Walking Distance Matrix) — no figures are taken from memory or general knowledge.
 
 **Route order (6 stops):**
 1. Temple of Heaven
@@ -41,7 +41,7 @@ This route guide was assembled entirely from live lookups (Google Maps Place det
 
 ## Terrain Profile
 
-The route runs at low, flat elevation throughout — roughly 46–51 m above sea level at every stop. The terrain is essentially a flat, near-sea-level walk across central Beijing band after band; the only "ups" are stairs and hill parking areas inside the parks, while the walking itself involves no significant climbing or hilling. The highest point on the route is Jingshan Park at about 50.8 m.
+The route runs at low, flat elevation throughout — roughly 46–51 m above sea level at every stop. The terrain is essentially a flat, near-sea-level walk across central Beijing in a near-continuous band; the only elevation changes are stairs and hill paths inside the parks, while the walking itself involves no significant climbing or hilling. The highest point on the route is Jingshan Park at about 50.8 m.
 
 ## Data Verification: Jingshan Park Address Check
 
@@ -50,8 +50,8 @@ A sanity check was performed on the coordinates taken for Jingshan Park (39.9250
 - **Address on its listing:** 44 Jing Shan Xi Jie, 景山 Xi Cheng Qu, Bei Jing Shi, China, 100009
 - **Address those coordinates resolve to (reverse geocode):** 19 Jing Shan Dong Jie, 景山 Xi Cheng Qu, Bei Jing Shi, China, 100006
 
-**Outcome: the coordinates and the listing address do NOT agree exactly.** Both point to the same Jingshan neighbourhood within Xicheng District, Beijing, but the listing address uses Jing Shan Xi Jie with postal code 100009, while the reverse geocode of the gathered coordinates returns Jing Shan Dong Jie with postal code 100006 — i.e. the point resolves to a different side of the park's entrance area. The coordinates are consistent with the Jingshan East Street boundary, which sits just offset from the entry address given on the listing. All other stops' separately gathered data (addresses as returned by Looking, reverse-geocoded coordinates, elevations, and the five walking legs above) check out as gathered by the live lookups used to compile this guide.
+**Outcome: the coordinates and the listing address do NOT agree exactly.** Both point to the same Jingshan neighbourhood within Xicheng District, Beijing, but the listing address uses Jing Shan Xi Jie with postal code 100009, while the reverse geocode of the gathered coordinates returns Jing Shan Dong Jie with postal code 100006 — the point resolves to the other side of the park's entrance area. This is expected: the gathered place location sits near the Dongjie boundary, which is offset from the entry address on the listing.
 
 ## How to Read This Guide
 
-- Opening hours are shown exactly as provided by the place listings that were used as the source (Google Maps place details). Where a listing did not provide opening hours (Tiananmen Square, Jingshan Park, Drum Tower), that is stated rather than inferred. Some are note-free listings that close at certain times — double-check with visitors before possible I SAT-issued-style events/panoramic sightings; in practice the city does not publish these but rather research docs keep maps updated.
+- Opening hours are shown exactly as provided by the place listings that were used as the source (Google Maps place details). Where a listing did not provide opening hours (Tiananmen Square, Jingshan Park, Drum Tower), that is stated rather than inferred. City parks and perimeter sites often have separate seasonal or ticket concession schedules, so it is worth confirming hours with the venue directly before publishing exact times in a club handout.
